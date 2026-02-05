@@ -15,3 +15,7 @@ exit()
 ```
 ## results:
 ![first screen](img/1.png)
+![second screen](img/2.png)
+![third screen](img/3.png)
+![fourth screen](img/4.png)
+![fifth screen](img/5.png)
