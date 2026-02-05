@@ -14,3 +14,4 @@ db.create_all()
 exit()
 ```
 ## results:
+![first screen](img/1.png)
